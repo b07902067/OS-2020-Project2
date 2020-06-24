@@ -1,1 +1,0 @@
-Transmission time: 6.092900 ms, File size: 18000000 bytes
